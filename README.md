@@ -16,13 +16,21 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
  - [Main react site](https://react.dev)
  - [Old depricated site](https://reactjs.org)
 
-To start use the site as helper
+
+Varian 1. To start use the site [Create react app](https://create-react-app.dev/) as helper
 
 Run commad:
 ```bash
-npx create-react-app react-study
+npx create-react-app reactjs-study
 ```
- [Create react app](https://create-react-app.dev/)
+ 
+Varian 2. Use vite
+
+Run commad:
+```bash
+npm create vite@latest reactjs-study -- --template react
+```
+
 
 Install packages
 ```bash
